@@ -1,3 +1,7 @@
+## O que é esse projeto?
+
+Esse projeto é responsável por fazer a listagem, na página principal, de algumas tecnologias como ReactJS, React Native, Flow, flipper e outras com uma descrição simples e um botão para acessar mais informações, acessando uma segunda página que conterá uma estilização simples para algumas caractersticas da tecnologia analisada e um link para acesso externo a mais informações da tecnologia.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
